@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Don't know what to do!!!
 Very strange
+=======
+Don't know what to do!!! Help, help, help!!!
+>>>>>>> 286d62a7a1e82317c0762326a8deacfab184fa4e
